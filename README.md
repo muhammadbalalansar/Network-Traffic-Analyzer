@@ -2,6 +2,7 @@
 
 # Network Traffic Analyzer
 
+
 Two implementations of the same network traffic analyzer — one in Python, one in C++. Both capture packets at the kernel level, parse protocol headers, and display real-time statistics.
 
 **[Screenshots & demo →](DEMO.md)**
