@@ -15,7 +15,6 @@ Two implementations of the same network traffic analyzer — one in Python, one 
 | [**C++**](./cpp) | C++20 • libpcap • FTXUI | Interactive TUI, polymorphic IP parser, mutex-protected stats engine |
 | [**Python**](./python) | Python 3.14 • Scapy • Rich | Producer-consumer threading, BPF filter builder, Matplotlib chart export |
 
-
 ## Quick Start
 
 **C++ — high-performance interactive TUI:**
