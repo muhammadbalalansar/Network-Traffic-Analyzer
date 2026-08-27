@@ -8,7 +8,6 @@ Two implementations of the same network traffic analyzer — one in Python, one 
 
 ## Implementations
 
-
 | Implementation | Stack | Highlights |
 |---|---|---|
 | [**C++**](./cpp) | C++20 • libpcap • FTXUI | Interactive TUI, polymorphic IP parser, mutex-protected stats engine |
