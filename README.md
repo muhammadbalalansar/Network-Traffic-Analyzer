@@ -6,7 +6,7 @@ Two implementations of the same network traffic analyzer — one in Python, one 
 
 **[Screenshots & demo →](DEMO.md)**
 
-## Implementations
+## Implementations :
 
 | Implementation | Stack | Highlights |
 |---|---|---|
