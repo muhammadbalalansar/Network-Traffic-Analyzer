@@ -32,4 +32,3 @@ sudo netanal capture -i eth0
 ```
 Both require root or `CAP_NET_RAW` capability for packet capture
 
-
